@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    text-align: justify;
+    color: rgb(0, 0, 0)
+}
+
+h1 {
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+h2 {
+    text-align: center;
+    color: lightslategray;
+}
+
+.contenedor {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+}
+
+.contenedor div {
+    border: 1px solid rgb(26, 0, 0);
+    padding: 20px;
+    border-color: rgb(31, 22, 1);
+    border-radius: 10px;
+    background-color: rgb(236, 235, 232);
+}
+
+.contenedorImagenes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contenedorImagenes img {
+    height: 400px;
+    width: 600px;
+    padding: 10px;
+    border-radius: 80px;
+}

@@ -1,0 +1,25 @@
+html{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a{
+    border: 3px solid grey;
+    border-radius: 5px;
+}
+
+.boton1:hover{
+    color: darkred;
+}
+
+.boton1:active{
+    color: deepskyblue;
+}
+
+
+.boton2:hover{
+    color: limegreen;
+}
+
+.boton2:active{
+    color: rgb(238, 202, 0);
+}

@@ -1,0 +1,38 @@
+.container-fluid {
+    width: auto;
+    margin: 10px;
+    background-color: rgb(229, 233, 230);
+}
+
+.columnas {
+    background-color: darkgrey;
+    width: auto;
+    height: 50px;
+    border: 1px solid rgb(126, 109, 109);
+    border-radius: 3px;
+}
+
+.distintas {
+    background-color: rgb(255, 255, 255);
+    border: dotted;
+}
+
+.container {
+    margin: auto;
+    background-color: rgb(206, 224, 211);
+}
+
+.amarilla {
+    height: 45px;
+    background-color: rgb(247, 248, 204);
+    justify-content: space-between;
+    border: 1px solid gray;
+}
+
+body {
+    font-style: italic;
+}
+
+.columnaGrande {
+    height: 80px;
+}

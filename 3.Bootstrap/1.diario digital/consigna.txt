@@ -1,0 +1,6 @@
+Diario Digital 
+Nuestro cliente nos pide que hagamos una página para su diario digital. Debemos hacer la home y la página de una noticia para mostrarle. 
+El diseño debe ser responsive. 
+Home page 
+•  Barra de navegación con temas de noticias Argentina, Mundo, Deporte y Espectáculos. 
+•  Grilla con títulos de varias noticias con imagen y copete.

@@ -1,0 +1,5 @@
+Realizar una página que contenga: 
+•  Dos o más divs, uno contenedor y dentro sus hijos. 
+•  Aplicar las propiedades vistas de flexbox. 
+•  Probar cómo se modifica la apariencia cambiando la dirección, justificación, alineación, etc. 
+•  Agregar div con tamaño en porcentaje, ver qué sucede cuando achicamos la ventana del navegador.

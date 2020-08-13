@@ -1,0 +1,38 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h1,
+h2 {
+    padding-bottom: 1px;
+    color: rgb(18, 125, 192);
+}
+
+.encabezado {
+    width: 100%;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: azure;
+}
+
+.encabezado img {
+    border: 1px solid rgb(148, 146, 142);
+    border-radius: 10px;
+}
+
+.video iframe {
+    padding: 2px;
+    margin: 0 auto;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.imagenes img {
+    height: 200px;
+    width: 300px;
+    padding: 1px;
+    margin: 0 auto;
+    border: 3px solid rgb(211, 211, 224);
+    border-radius: 10px;
+}

@@ -1,0 +1,80 @@
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: lightblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    
+    background-color: rgb(231, 233, 231);
+    color: rgb(32, 35, 236);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul{
+    list-style: circle;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+img{
+    width: 200px;
+    display: block;
+    margin: auto;
+    border-style: double;
+    border-width: 8px;
+    border-color: lightblue;
+}
+
+#centrado {text-align: center};
+#izq{text-align: left}
+#justificado{text-align: justify}
+#der{text-align: right}
+
+
+.enumeracion{
+    color: rgb(15, 186, 209);
+    text-align: justify;
+    
+}
+.italic{
+    font-style: italic;
+}
+
+
+.negrita{
+    justify-content: left;
+    font-weight: bold;
+}
+.azul{
+    color: rgb(0, 68, 255);
+    font-weight: bold;
+    
+}
+
+.resaltar{
+    background-color: rgb(179, 206, 231);
+    border-radius: 15px;
+    padding-left: 8px;
+    color: rgb(0, 0, 0);
+    
+}
+.encabezado{
+    background-color: rgb(151, 151, 151);
+}
+.parrafo1{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    
+}
